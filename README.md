@@ -89,7 +89,7 @@
 <body>
     <div class="container flex flex-col items-center">
         <!-- Main Product Information Section -->
-        <img src="https://pixabay.com/id/photos/kaki-alas-kaki-nike-sepatu-1840619/"
+        <img src="https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_960_720.jpg"
              alt="Gambar Sepatu Asli"
              class="product-image"
              onerror="this.onerror=null;this.src='https://placehold.co/600x400/8b5cf6/ffffff?text=Gambar+Tidak+Tersedia';">
